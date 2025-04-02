@@ -70,7 +70,7 @@ APP Desenvolvido como projeto final da disciplina Integrações, Monetização e
 
 1. Clone o repositório
 ```bash
-git clone (https://github.com/xalexandre/projetoTaskManagerKotlin)
+git clone https://github.com/xalexandre/projetoTaskManagerKotlin
 ```
 
 2. Abra o projeto no Android Studio
