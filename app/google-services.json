@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "269950484684",
+    "firebase_url": "https://kotlin-task-manager-4405b-default-rtdb.firebaseio.com",
+    "project_id": "kotlin-task-manager-4405b",
+    "storage_bucket": "kotlin-task-manager-4405b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269950484684:android:9627d4996bc9b0b4250269",
+        "android_client_info": {
+          "package_name": "dev.brodt.taskmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj4T1sHe_tbaqqdDD1jRbhPNn8i5XPFbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

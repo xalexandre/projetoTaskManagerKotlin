@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adservicesConfig>
+    <!-- Google Mobile Ads configuration -->
+    <adUnitMapping>
+        <!-- Test ad unit IDs -->
+        <adUnit
+            adUnitId="ca-app-pub-3940256099942544/6300978111"
+            adFormat="banner" />
+        <adUnit
+            adUnitId="ca-app-pub-3940256099942544/1033173712"
+            adFormat="interstitial" />
+        <adUnit
+            adUnitId="ca-app-pub-3940256099942544/5224354917"
+            adFormat="rewarded" />
+    </adUnitMapping>
+    
+    <!-- Enable test mode for development -->
+    <testDevices>
+        <!-- Add your test device IDs here -->
+        <testDevice deviceId="ABCDEF012345678901234567890ABCDEF" />
+    </testDevices>
+</adservicesConfig>
